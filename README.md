@@ -10,7 +10,8 @@ The main repositories that have some of my published work are 'contamination', '
 SeebinJwad/SeebinJwad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+## **below I attached a markdown of my resume**
+#
 # Jawad Kazi
 ### (346) 779-4692 • jawad.kazi@utexas.edu • jawadkazi.ml • Austin, Texas
 ## EDUCATION
